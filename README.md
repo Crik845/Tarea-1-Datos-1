@@ -1,6 +1,6 @@
 # Tarea-1-Datos-1
 
-Para ejecutar este código de java debe contar con un IDEA compatible
+Para ejecutar este código de java debe contar con un IDEA compatible,
 de preferencia una versión actualizada
 
 Debe descargar los archivos pertinentes
